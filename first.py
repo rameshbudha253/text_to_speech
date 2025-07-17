@@ -1,7 +1,7 @@
 import gtts
-text = input("enter something here:")
+text = input("Enter something here::")
 
 sound = gtts.gTTS(text,lang='en')
 
 sound.save("output.mp3")
-playsound.playsoud("output.mp3")
+playsound.playsound("output.mp3")

@@ -10,4 +10,5 @@
   1. <a>pip install gtts.</a>
   2.<a>pip install playsound</a>
   <br>
+  These are the models used in this project....
   
